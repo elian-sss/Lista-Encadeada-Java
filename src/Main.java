@@ -11,5 +11,8 @@ public class Main {
 
         lista.adiciona(3);
         System.out.println(lista);
+
+        lista.limpa();
+        System.out.println(lista);
     }
 }

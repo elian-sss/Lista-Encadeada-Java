@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/aulaNova.iml" filepath="$PROJECT_DIR$/aulaNova.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lista-encadeada-java.iml" filepath="$PROJECT_DIR$/lista-encadeada-java.iml" />
     </modules>
   </component>
 </project>
